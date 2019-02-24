@@ -1,0 +1,50 @@
+08:12:06,511 DEBUG SQL:94 - select PERSON_SEQ.nextval from dual
+08:12:34,138 DEBUG SQL:94 - select PERSON_SEQ.nextval from dual
+08:12:34,188 DEBUG SQL:94 - insert into Person (HOME_CITY, HOME_STREET, HOME_ZIPCODE, PERSON_NAME, PERSON_ID) values (?, ?, ?, ?, ?)
+08:12:34,195 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Indore]
+08:12:34,196 TRACE BasicBinder:65 - binding parameter [2] as [VARCHAR] - [Saifee Lane]
+08:12:34,196 TRACE BasicBinder:65 - binding parameter [3] as [VARCHAR] - [ABC123]
+08:12:34,196 TRACE BasicBinder:65 - binding parameter [4] as [VARCHAR] - [Taher]
+08:12:34,197 TRACE BasicBinder:65 - binding parameter [5] as [INTEGER] - [2]
+08:13:52,362 DEBUG SQL:94 - select PERSON_SEQ.nextval from dual
+08:13:52,415 DEBUG SQL:94 - insert into Person (HOME_CITY, HOME_STREET, HOME_ZIPCODE, PERSON_NAME, PERSON_ID) values (?, ?, ?, ?, ?)
+08:13:52,424 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Indore]
+08:13:52,424 TRACE BasicBinder:65 - binding parameter [2] as [VARCHAR] - [Saifee Lane]
+08:13:52,424 TRACE BasicBinder:65 - binding parameter [3] as [VARCHAR] - [ABC123]
+08:13:52,424 TRACE BasicBinder:65 - binding parameter [4] as [VARCHAR] - [Taher]
+08:13:52,425 TRACE BasicBinder:65 - binding parameter [5] as [INTEGER] - [3]
+08:15:27,158 DEBUG SQL:94 - select PERSON_SEQ.nextval from dual
+08:15:33,283 DEBUG SQL:94 - insert into Person (HOME_CITY, HOME_STREET, HOME_ZIPCODE, PERSON_NAME, PERSON_ID) values (?, ?, ?, ?, ?)
+08:15:33,440 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Indore]
+08:15:33,448 TRACE BasicBinder:65 - binding parameter [2] as [VARCHAR] - [Saifee Lane]
+08:15:33,456 TRACE BasicBinder:65 - binding parameter [3] as [VARCHAR] - [ABC123]
+08:15:33,464 TRACE BasicBinder:65 - binding parameter [4] as [VARCHAR] - [Taher]
+08:15:33,487 TRACE BasicBinder:65 - binding parameter [5] as [INTEGER] - [4]
+08:17:39,300 DEBUG SQL:94 - select PERSON_SEQ.nextval from dual
+08:18:06,303 DEBUG SQL:94 - insert into Person (HOME_CITY, HOME_STREET, HOME_ZIPCODE, PERSON_NAME, PERSON_ID) values (?, ?, ?, ?, ?)
+08:18:06,329 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Indore]
+08:18:06,330 TRACE BasicBinder:65 - binding parameter [2] as [VARCHAR] - [Saifee Lane]
+08:18:06,331 TRACE BasicBinder:65 - binding parameter [3] as [VARCHAR] - [ABC123]
+08:18:06,331 TRACE BasicBinder:65 - binding parameter [4] as [VARCHAR] - [Taher]
+08:18:06,334 TRACE BasicBinder:65 - binding parameter [5] as [INTEGER] - [5]
+08:19:55,860 DEBUG SQL:94 - select PERSON_SEQ.nextval from dual
+08:20:06,752 DEBUG SQL:94 - insert into Person (HOME_CITY, HOME_STREET, HOME_ZIPCODE, PERSON_NAME, PERSON_ID) values (?, ?, ?, ?, ?)
+08:20:06,779 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Indore]
+08:20:06,779 TRACE BasicBinder:65 - binding parameter [2] as [VARCHAR] - [Saifee Lane]
+08:20:06,780 TRACE BasicBinder:65 - binding parameter [3] as [VARCHAR] - [ABC123]
+08:20:06,781 TRACE BasicBinder:65 - binding parameter [4] as [VARCHAR] - [Taher]
+08:20:06,783 TRACE BasicBinder:65 - binding parameter [5] as [INTEGER] - [6]
+08:27:33,493 DEBUG SQL:94 - select PERSON_SEQ.nextval from dual
+08:27:33,546 DEBUG SQL:94 - insert into Person (HOME_CITY, HOME_STREET, HOME_ZIPCODE, PERSON_NAME, PERSON_ID) values (?, ?, ?, ?, ?)
+08:27:33,553 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Indore]
+08:27:33,553 TRACE BasicBinder:65 - binding parameter [2] as [VARCHAR] - [Saifee Lane]
+08:27:33,553 TRACE BasicBinder:65 - binding parameter [3] as [VARCHAR] - [ABC123]
+08:27:33,554 TRACE BasicBinder:65 - binding parameter [4] as [VARCHAR] - [Taher]
+08:27:33,554 TRACE BasicBinder:65 - binding parameter [5] as [INTEGER] - [7]
+08:28:02,281 DEBUG SQL:94 - select PERSON_SEQ.nextval from dual
+08:28:02,333 DEBUG SQL:94 - insert into Person (HOME_CITY, HOME_STREET, HOME_ZIPCODE, PERSON_NAME, PERSON_ID) values (?, ?, ?, ?, ?)
+08:28:02,341 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [Indore]
+08:28:02,342 TRACE BasicBinder:65 - binding parameter [2] as [VARCHAR] - [Saifee Lane]
+08:28:02,342 TRACE BasicBinder:65 - binding parameter [3] as [VARCHAR] - [ABC123]
+08:28:02,342 TRACE BasicBinder:65 - binding parameter [4] as [VARCHAR] - [Taher]
+08:28:02,343 TRACE BasicBinder:65 - binding parameter [5] as [INTEGER] - [8]
